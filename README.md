@@ -4,7 +4,7 @@ Trying to show my stats. So far no good.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=404R4K0&show_icons=true&theme=radical)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=404R4K0&langs_count=5&theme=tokyonight)]()
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=404R4K0&theme=tokyonight)
 
 <!--
 **404R4K0/404R4K0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

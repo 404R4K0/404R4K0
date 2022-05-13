@@ -1,4 +1,6 @@
 ### Hi there 👋
+![My Github Status](https://github-readme-stats.vercel.app/api?username=BartvanEijkelenburg&show_icons=true&theme=onedark)
+
 
 <!--
 **404R4K0/404R4K0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

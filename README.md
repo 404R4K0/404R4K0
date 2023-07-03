@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Trying to show my stats. So far no good.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=404R4K0&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404R4K0&layout=compact)](https://github.com/404R4K0/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=404R4K0&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **404R4K0/404R4K0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

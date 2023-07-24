@@ -8,7 +8,7 @@ My name is Jelle de Ruiter, am a web developer at Case-electronics.
 ---
 ### 🥇 Trophies: 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=404R4K0)](https://github.com/404R4K0/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=404R4K0)](https://github-profile-trophy.vercel.app/?username=404R4K0)
 
 ---
 

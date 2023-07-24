@@ -23,7 +23,7 @@ My name is Jelle de Ruiter, am a web developer at Case-electronics.
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>](Jest)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>](MySQL)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>](MongoDB)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/posygresql/postgresql-original.svg" width="40" height="40"/>](PostgresQL)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>](PostgresQL)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>](NodeJS)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>](PHP)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40"/>](Laravel)

@@ -6,13 +6,13 @@
 My name is Jelle de Ruiter, am a web developer at Case-electronics. 
 
 ---
-### 🥇 Trophies: 
+### 🥇 My trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=404R4K0)](https://github-profile-trophy.vercel.app/?username=404R4K0)
 
 ---
 
-### 🛠️  My skills :  
+### 🛠️  My skills:  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@ My name is Jelle de Ruiter, am a web developer at Case-electronics.
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=404R4K0&theme=dark&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=404R4K0&theme=dark&background=000000)
 
 ---

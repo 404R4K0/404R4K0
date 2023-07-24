@@ -1,5 +1,5 @@
 <h1>
-  Hey there, welcom to my profile
+  Hey there, welcome to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 

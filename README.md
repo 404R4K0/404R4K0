@@ -1,12 +1,12 @@
 <h1>
-  hey there
+  Hey there, welcom to my profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 My name is Jelle de Ruiter, am a web developer at Case-electronics. 
 
 ---
-### 🥇 trophies: 
+### 🥇 Trophies: 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=404R4K0)](https://github.com/404R4K0/github-profile-trophy)
 

@@ -44,9 +44,6 @@ My name is Jelle de Ruiter, I am a web developer at Case-electronics.
 
 ---
 
-### 🥇 Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404R4K0)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **404R4K0/404R4K0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
